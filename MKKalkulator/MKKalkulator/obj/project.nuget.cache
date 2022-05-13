@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BySvNmK7+7S33z9k5YC+errenPJBEDsiPKmT6Io0W+VQ0ML9KhCEfpELiZhVOJoXyE4v/IE5Bx19V4tN+2LUQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michał\\Desktop\\Kcal\\MKKalkulator\\MKKalkulator\\MKKalkulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Michał\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
